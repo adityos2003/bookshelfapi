@@ -1,0 +1,14 @@
+{
+  "name": "rak_kanggo_buku-api",
+  "version": "1.0.0",
+  "description": "Submission Bookshelf API",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}
